@@ -1,26 +1,905 @@
 {
-    "resultado": {
-        "idmercado": "",
-        "idsucursal": null,
-        "estado": "1",
-        "mensaje": "Exito",
-        "total_registros": 1,
-        "prestamos": {
-            "38908": {
-                "idprestamo": 38908,
-                "idcliente": "1738",
-                "monto_capital": 121,
-                "monto_total": 133.1,
-                "interes_porcentaje": 10,
-                "saldo": 133.1,
-                "fecha_prestamo": "2021-06-01",
-                "fecha_vencimiento": "2021-07-01",
-                "estado": "P",
-                "gasto_administrativo": "1",
-                "forma_pago": "D",
-                "duracion": "30",
-                "nombre_completo": "Cesar Prueba Bautista Yopan"
-            }
-        }
-    }
+	"hits": [
+		{
+			"created_at": "2021-07-01T15:03:05.000Z",
+			"title": null,
+			"url": null,
+			"author": "Austin_Conlon",
+			"points": null,
+			"story_text": null,
+			"comment_text": "Software engineer for Apple platforms (iOS, iPadOS, macOS, tvOS, watchOS)<p>Location: Mountain View, CA<p>Technologies: Objective-C, Swift, SwiftUI<p>App Store apps: <a href=\"https:&#x2F;&#x2F;apps.apple.com&#x2F;developer&#x2F;austin-conlon&#x2F;id1189508961\" rel=\"nofollow\">https:&#x2F;&#x2F;apps.apple.com&#x2F;developer&#x2F;austin-conlon&#x2F;id1189508961</a><p>GitHub: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;AustinConlon\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;AustinConlon</a><p>Email&#x2F;iMessage: austinconlon@icloud.com<p>Preference is for freelance or contract work.<p>Rate is 120%-140% of the market U.S. rate of a full time mobile developer (<a href=\"https:&#x2F;&#x2F;insights.stackoverflow.com&#x2F;survey&#x2F;2020#work-salary-by-developer-type-united-states\" rel=\"nofollow\">https:&#x2F;&#x2F;insights.stackoverflow.com&#x2F;survey&#x2F;2020#work-salary-b...</a>) to account for the overhead of contracting.",
+			"num_comments": null,
+			"story_id": 27699702,
+			"story_title": "Ask HN: Who wants to be hired? (July 2021)",
+			"story_url": null,
+			"parent_id": 27699702,
+			"created_at_i": 1625151785,
+			"_tags": [
+				"comment",
+				"author_Austin_Conlon",
+				"story_27699702"
+			],
+			"objectID": "27699745",
+			"_highlightResult": {
+				"author": {
+					"value": "Austin_Conlon",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"comment_text": {
+					"value": "Software engineer for Apple platforms (iOS, iPadOS, macOS, tvOS, watchOS)<p>Location: Mountain View, CA<p>Technologies: Objective-C, Swift, SwiftUI<p>App Store apps: <a href=\"https://apps.apple.com/developer/austin-conlon/id1189508961\" rel=\"nofollow\">https://apps.apple.com/developer/austin-conlon/id1189508961</a><p>GitHub: <a href=\"https://github.com/AustinConlon\" rel=\"nofollow\">https://github.com/AustinConlon</a><p>Email/iMessage: austinconlon@icloud.com<p>Preference is for freelance or contract work.<p>Rate is 120%-140% of the market U.S. rate of a full time <em>mobile</em> developer (<a href=\"https://insights.stackoverflow.com/survey/2020#work-salary-by-developer-type-united-states\" rel=\"nofollow\">https://insights.stackoverflow.com/survey/2020#work-salary-b...</a>) to account for the overhead of contracting.",
+					"matchLevel": "full",
+					"fullyHighlighted": false,
+					"matchedWords": [
+						"mobile"
+					]
+				},
+				"story_title": {
+					"value": "Ask HN: Who wants to be hired? (July 2021)",
+					"matchLevel": "none",
+					"matchedWords": []
+				}
+			}
+		},
+		{
+			"created_at": "2021-07-01T15:02:30.000Z",
+			"title": null,
+			"url": null,
+			"author": "bolt28",
+			"points": null,
+			"story_text": null,
+			"comment_text": "Bolt | Software Engineering | <a href=\"https:&#x2F;&#x2F;www.bolt.com\" rel=\"nofollow\">https:&#x2F;&#x2F;www.bolt.com</a><p>Commerce is moving online faster than ever, and our Engineering team (ex FB&#x2F;Google&#x2F;Twitter&#x2F;Uber) cannot build fast enough to meet demand. We need Front End, Mobile, and Senior Software Engineers for our 2021 goals.<p>If up for it, connect with us over a 10min zoom coffee next week to share more: sam.greinetz@bolt.com",
+			"num_comments": null,
+			"story_id": 27699704,
+			"story_title": "Ask HN: Who is hiring? (July 2021)",
+			"story_url": null,
+			"parent_id": 27699704,
+			"created_at_i": 1625151750,
+			"_tags": [
+				"comment",
+				"author_bolt28",
+				"story_27699704"
+			],
+			"objectID": "27699737",
+			"_highlightResult": {
+				"author": {
+					"value": "bolt28",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"comment_text": {
+					"value": "Bolt | Software Engineering | <a href=\"https://www.bolt.com\" rel=\"nofollow\">https://www.bolt.com</a><p>Commerce is moving online faster than ever, and our Engineering team (ex FB/Google/Twitter/Uber) cannot build fast enough to meet demand. We need Front End, <em>Mobile</em>, and Senior Software Engineers for our 2021 goals.<p>If up for it, connect with us over a 10min zoom coffee next week to share more: sam.greinetz@bolt.com",
+					"matchLevel": "full",
+					"fullyHighlighted": false,
+					"matchedWords": [
+						"mobile"
+					]
+				},
+				"story_title": {
+					"value": "Ask HN: Who is hiring? (July 2021)",
+					"matchLevel": "none",
+					"matchedWords": []
+				}
+			}
+		},
+		{
+			"created_at": "2021-07-01T15:01:53.000Z",
+			"title": null,
+			"url": null,
+			"author": "Austin_Conlon",
+			"points": null,
+			"story_text": null,
+			"comment_text": "SEEKING WORK | Mountain View, CA<p>Software engineer for Apple platforms (iOS, iPadOS, macOS, tvOS, watchOS)<p>Technologies: Objective-C, Swift, SwiftUI<p>App Store apps: <a href=\"https:&#x2F;&#x2F;apps.apple.com&#x2F;developer&#x2F;austin-conlon&#x2F;id1189508961\" rel=\"nofollow\">https:&#x2F;&#x2F;apps.apple.com&#x2F;developer&#x2F;austin-conlon&#x2F;id1189508961</a><p>GitHub: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;AustinConlon\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;AustinConlon</a><p>Email&#x2F;iMessage: austinconlon@icloud.com<p>Rate is 120%-140% of the market U.S. rate of a full time mobile developer (<a href=\"https:&#x2F;&#x2F;insights.stackoverflow.com&#x2F;survey&#x2F;2020#work-salary-by-developer-type-united-states\" rel=\"nofollow\">https:&#x2F;&#x2F;insights.stackoverflow.com&#x2F;survey&#x2F;2020#work-salary-b...</a>) to account for the overhead of contracting.",
+			"num_comments": null,
+			"story_id": 27699703,
+			"story_title": "Ask HN: Freelancer? Seeking freelancer? (July 2021)",
+			"story_url": null,
+			"parent_id": 27699703,
+			"created_at_i": 1625151713,
+			"_tags": [
+				"comment",
+				"author_Austin_Conlon",
+				"story_27699703"
+			],
+			"objectID": "27699721",
+			"_highlightResult": {
+				"author": {
+					"value": "Austin_Conlon",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"comment_text": {
+					"value": "SEEKING WORK | Mountain View, CA<p>Software engineer for Apple platforms (iOS, iPadOS, macOS, tvOS, watchOS)<p>Technologies: Objective-C, Swift, SwiftUI<p>App Store apps: <a href=\"https://apps.apple.com/developer/austin-conlon/id1189508961\" rel=\"nofollow\">https://apps.apple.com/developer/austin-conlon/id1189508961</a><p>GitHub: <a href=\"https://github.com/AustinConlon\" rel=\"nofollow\">https://github.com/AustinConlon</a><p>Email/iMessage: austinconlon@icloud.com<p>Rate is 120%-140% of the market U.S. rate of a full time <em>mobile</em> developer (<a href=\"https://insights.stackoverflow.com/survey/2020#work-salary-by-developer-type-united-states\" rel=\"nofollow\">https://insights.stackoverflow.com/survey/2020#work-salary-b...</a>) to account for the overhead of contracting.",
+					"matchLevel": "full",
+					"fullyHighlighted": false,
+					"matchedWords": [
+						"mobile"
+					]
+				},
+				"story_title": {
+					"value": "Ask HN: Freelancer? Seeking freelancer? (July 2021)",
+					"matchLevel": "none",
+					"matchedWords": []
+				}
+			}
+		},
+		{
+			"created_at": "2021-07-01T15:01:28.000Z",
+			"title": null,
+			"url": null,
+			"author": "joshingmachine",
+			"points": null,
+			"story_text": null,
+			"comment_text": "Niche | Pittsburgh, PA | Full-time | Onsite and Remote (USA only) | <a href=\"https:&#x2F;&#x2F;www.niche.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.niche.com&#x2F;</a><p>Niche is the leader in school search. Our mission is to make researching and enrolling in schools easy, transparent, and free. With in-depth profiles on every school and college in America, 140 million reviews and ratings, and powerful search tools, we help millions of people find the right school for them. We also help thousands of schools recruit more best-fit students, by highlighting what makes them great and making it easier to visit and apply.<p>Senior Mobile Engineer\n<a href=\"https:&#x2F;&#x2F;boards.greenhouse.io&#x2F;nichecom&#x2F;jobs&#x2F;4032911004\" rel=\"nofollow\">https:&#x2F;&#x2F;boards.greenhouse.io&#x2F;nichecom&#x2F;jobs&#x2F;4032911004</a><p>Software Engineer, Front-End\n<a href=\"https:&#x2F;&#x2F;grnh.se&#x2F;875c78f24us\" rel=\"nofollow\">https:&#x2F;&#x2F;grnh.se&#x2F;875c78f24us</a><p>Software Engineer, Back-End\n<a href=\"https:&#x2F;&#x2F;grnh.se&#x2F;04218d544us\" rel=\"nofollow\">https:&#x2F;&#x2F;grnh.se&#x2F;04218d544us</a><p>Sr. UI&#x2F;UX Designer\n<a href=\"https:&#x2F;&#x2F;grnh.se&#x2F;110e92594us\" rel=\"nofollow\">https:&#x2F;&#x2F;grnh.se&#x2F;110e92594us</a><p>Data Engineer\n<a href=\"https:&#x2F;&#x2F;grnh.se&#x2F;f36aa2d14us\" rel=\"nofollow\">https:&#x2F;&#x2F;grnh.se&#x2F;f36aa2d14us</a><p>Scrum Master&#x2F;Software Development Project Manager\n<a href=\"https:&#x2F;&#x2F;boards.greenhouse.io&#x2F;nichecom&#x2F;jobs&#x2F;4032902004\" rel=\"nofollow\">https:&#x2F;&#x2F;boards.greenhouse.io&#x2F;nichecom&#x2F;jobs&#x2F;4032902004</a><p>Sr. Quality Assurance Analyst\n<a href=\"https:&#x2F;&#x2F;boards.greenhouse.io&#x2F;nichecom&#x2F;jobs&#x2F;4038702004\" rel=\"nofollow\">https:&#x2F;&#x2F;boards.greenhouse.io&#x2F;nichecom&#x2F;jobs&#x2F;4038702004</a>",
+			"num_comments": null,
+			"story_id": 27699704,
+			"story_title": "Ask HN: Who is hiring? (July 2021)",
+			"story_url": null,
+			"parent_id": 27699704,
+			"created_at_i": 1625151688,
+			"_tags": [
+				"comment",
+				"author_joshingmachine",
+				"story_27699704"
+			],
+			"objectID": "27699708",
+			"_highlightResult": {
+				"author": {
+					"value": "joshingmachine",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"comment_text": {
+					"value": "Niche | Pittsburgh, PA | Full-time | Onsite and Remote (USA only) | <a href=\"https://www.niche.com/\" rel=\"nofollow\">https://www.niche.com/</a><p>Niche is the leader in school search. Our mission is to make researching and enrolling in schools easy, transparent, and free. With in-depth profiles on every school and college in America, 140 million reviews and ratings, and powerful search tools, we help millions of people find the right school for them. We also help thousands of schools recruit more best-fit students, by highlighting what makes them great and making it easier to visit and apply.<p>Senior <em>Mobile</em> Engineer\n<a href=\"https://boards.greenhouse.io/nichecom/jobs/4032911004\" rel=\"nofollow\">https://boards.greenhouse.io/nichecom/jobs/4032911004</a><p>Software Engineer, Front-End\n<a href=\"https://grnh.se/875c78f24us\" rel=\"nofollow\">https://grnh.se/875c78f24us</a><p>Software Engineer, Back-End\n<a href=\"https://grnh.se/04218d544us\" rel=\"nofollow\">https://grnh.se/04218d544us</a><p>Sr. UI/UX Designer\n<a href=\"https://grnh.se/110e92594us\" rel=\"nofollow\">https://grnh.se/110e92594us</a><p>Data Engineer\n<a href=\"https://grnh.se/f36aa2d14us\" rel=\"nofollow\">https://grnh.se/f36aa2d14us</a><p>Scrum Master/Software Development Project Manager\n<a href=\"https://boards.greenhouse.io/nichecom/jobs/4032902004\" rel=\"nofollow\">https://boards.greenhouse.io/nichecom/jobs/4032902004</a><p>Sr. Quality Assurance Analyst\n<a href=\"https://boards.greenhouse.io/nichecom/jobs/4038702004\" rel=\"nofollow\">https://boards.greenhouse.io/nichecom/jobs/4038702004</a>",
+					"matchLevel": "full",
+					"fullyHighlighted": false,
+					"matchedWords": [
+						"mobile"
+					]
+				},
+				"story_title": {
+					"value": "Ask HN: Who is hiring? (July 2021)",
+					"matchLevel": "none",
+					"matchedWords": []
+				}
+			}
+		},
+		{
+			"created_at": "2021-07-01T14:48:09.000Z",
+			"title": null,
+			"url": null,
+			"author": "treis",
+			"points": null,
+			"story_text": null,
+			"comment_text": "Chrome started forcing tab grouping on mobile so I&#x27;ve tried switching to Firefox.  My bank&#x27;s log in screen doesn&#x27;t work and posting to Facebook Marketplace is broken.  Not sure why basic functionality like that doesn&#x27;t work but it does force me to keep Chrome around.",
+			"num_comments": null,
+			"story_id": 27695463,
+			"story_title": "Otter Browser",
+			"story_url": "https://otter-browser.org",
+			"parent_id": 27697886,
+			"created_at_i": 1625150889,
+			"_tags": [
+				"comment",
+				"author_treis",
+				"story_27695463"
+			],
+			"objectID": "27699567",
+			"_highlightResult": {
+				"author": {
+					"value": "treis",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"comment_text": {
+					"value": "Chrome started forcing tab grouping on <em>mobile</em> so I've tried switching to Firefox.  My bank's log in screen doesn't work and posting to Facebook Marketplace is broken.  Not sure why basic functionality like that doesn't work but it does force me to keep Chrome around.",
+					"matchLevel": "full",
+					"fullyHighlighted": false,
+					"matchedWords": [
+						"mobile"
+					]
+				},
+				"story_title": {
+					"value": "Otter Browser",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"story_url": {
+					"value": "https://otter-browser.org",
+					"matchLevel": "none",
+					"matchedWords": []
+				}
+			}
+		},
+		{
+			"created_at": "2021-07-01T14:42:22.000Z",
+			"title": null,
+			"url": null,
+			"author": "rocqua",
+			"points": null,
+			"story_text": null,
+			"comment_text": "There is a real risk to giving a company your phone-number for SMS 2FA. That is that the company might, at some point, use the SMS as a single factor. This has happened a few times, sometimes it requires social engineering. In general, the risk is there.<p>Combine this with the time Facebook started using the mobile phone number for more than just 2FA (suggesting friends IIRC), and there is a decent argument for preferring plain password over enabling SMS 2FA.",
+			"num_comments": null,
+			"story_id": 27698607,
+			"story_title": "Carrier injecting ads into SMS '2FA' texts",
+			"story_url": "https://9to5google.com/2021/06/29/google-verification-code-sms-ad/",
+			"parent_id": 27699148,
+			"created_at_i": 1625150542,
+			"_tags": [
+				"comment",
+				"author_rocqua",
+				"story_27698607"
+			],
+			"objectID": "27699490",
+			"_highlightResult": {
+				"author": {
+					"value": "rocqua",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"comment_text": {
+					"value": "There is a real risk to giving a company your phone-number for SMS 2FA. That is that the company might, at some point, use the SMS as a single factor. This has happened a few times, sometimes it requires social engineering. In general, the risk is there.<p>Combine this with the time Facebook started using the <em>mobile</em> phone number for more than just 2FA (suggesting friends IIRC), and there is a decent argument for preferring plain password over enabling SMS 2FA.",
+					"matchLevel": "full",
+					"fullyHighlighted": false,
+					"matchedWords": [
+						"mobile"
+					]
+				},
+				"story_title": {
+					"value": "Carrier injecting ads into SMS '2FA' texts",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"story_url": {
+					"value": "https://9to5google.com/2021/06/29/google-verification-code-sms-ad/",
+					"matchLevel": "none",
+					"matchedWords": []
+				}
+			}
+		},
+		{
+			"created_at": "2021-07-01T13:24:32.000Z",
+			"title": null,
+			"url": null,
+			"author": "mytailorisrich",
+			"points": null,
+			"story_text": null,
+			"comment_text": "The aim is also to increase capacity because of the ever increasing number of mobile devices. Increasing capacity means increasing the number of devices that may connect to a single base station (aka &quot;tower&quot;) at any given time.<p>This was true when moving from 3G to 4G, and this is also true when moving from 4G to 5G, though with 5G there is an emphasis on a very large number of devices with relatively low data rates (in order to accommodate IOT scenarios).",
+			"num_comments": null,
+			"story_id": 27696267,
+			"story_title": "Download speeds: What Do 2G, 3G, 4G and 5G mean?",
+			"story_url": "https://kenstechtips.com/index.php/download-speeds-2g-3g-and-4g-actual-meaning",
+			"parent_id": 27696910,
+			"created_at_i": 1625145872,
+			"_tags": [
+				"comment",
+				"author_mytailorisrich",
+				"story_27696267"
+			],
+			"objectID": "27698796",
+			"_highlightResult": {
+				"author": {
+					"value": "mytailorisrich",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"comment_text": {
+					"value": "The aim is also to increase capacity because of the ever increasing number of <em>mobile</em> devices. Increasing capacity means increasing the number of devices that may connect to a single base station (aka &quot;tower&quot;) at any given time.<p>This was true when moving from 3G to 4G, and this is also true when moving from 4G to 5G, though with 5G there is an emphasis on a very large number of devices with relatively low data rates (in order to accommodate IOT scenarios).",
+					"matchLevel": "full",
+					"fullyHighlighted": false,
+					"matchedWords": [
+						"mobile"
+					]
+				},
+				"story_title": {
+					"value": "Download speeds: What Do 2G, 3G, 4G and 5G mean?",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"story_url": {
+					"value": "https://kenstechtips.com/index.php/download-speeds-2g-3g-and-4g-actual-meaning",
+					"matchLevel": "none",
+					"matchedWords": []
+				}
+			}
+		},
+		{
+			"created_at": "2021-07-01T13:19:32.000Z",
+			"title": null,
+			"url": null,
+			"author": "dariov",
+			"points": null,
+			"story_text": null,
+			"comment_text": "As remote work increasingly decouples work from location, people will be able to relocate to new places and adopt more mobile lifestyles. Social networks, which used to be centralized and stationary, will become more fluid and dispersed.",
+			"num_comments": null,
+			"story_id": 27698761,
+			"story_title": "Transcending locality: the rise of nomadism and decentralized communities",
+			"story_url": "https://www.dariov.com/blog/decentralized-communities",
+			"parent_id": 27698761,
+			"created_at_i": 1625145572,
+			"_tags": [
+				"comment",
+				"author_dariov",
+				"story_27698761"
+			],
+			"objectID": "27698762",
+			"_highlightResult": {
+				"author": {
+					"value": "dariov",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"comment_text": {
+					"value": "As remote work increasingly decouples work from location, people will be able to relocate to new places and adopt more <em>mobile</em> lifestyles. Social networks, which used to be centralized and stationary, will become more fluid and dispersed.",
+					"matchLevel": "full",
+					"fullyHighlighted": false,
+					"matchedWords": [
+						"mobile"
+					]
+				},
+				"story_title": {
+					"value": "Transcending locality: the rise of nomadism and decentralized communities",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"story_url": {
+					"value": "https://www.dariov.com/blog/decentralized-communities",
+					"matchLevel": "none",
+					"matchedWords": []
+				}
+			}
+		},
+		{
+			"created_at": "2021-07-01T10:59:54.000Z",
+			"title": null,
+			"url": null,
+			"author": "c2h5oh",
+			"points": null,
+			"story_text": null,
+			"comment_text": "Sadly still a thing.<p>Wire transfers in Canada (even domestic ones) are not available in online personal banking. You have to show up in a branch or call. Either way you will have to pay stupid amount of money for one. Someone receiving one will also have to pay &quot;administrative fee&quot; for the privilege - iirc it was $10-20 per wire transfer.<p>All you have are &quot;email transfers&quot; using Interac, which are usually capped at $3000 per transfer &amp; per day.<p>So cheques. For everything that you can&#x27;t&#x2F;won&#x27;t pay with CC. Rent? Write your landlord some cheques, preferably in advance for the duration of the lease, etc.<p>After moving to Canada almost a decade ago it felt like I was experiencing late 90&#x27;s EU banking all over again, except European banking was rapidly evolving then and the only improvement I&#x27;ve seen in Canadian banking in close to 10 years were:<p>- I could set online banking password longer than 8 characters and use characters other than letters (I&#x27;m serious)<p>- I can cash a cheque by taking photos of it with a mobile app<p>The only 2FA available for personal banking is still SMS and you have those dumb &quot;security&quot; questions everywhere.",
+			"num_comments": null,
+			"story_id": 27696927,
+			"story_title": "We Infiltrated a Counterfeit Check Ring Now What?",
+			"story_url": "https://krebsonsecurity.com/2021/06/we-infiltrated-a-counterfeit-check-ring-now-what/",
+			"parent_id": 27697539,
+			"created_at_i": 1625137194,
+			"_tags": [
+				"comment",
+				"author_c2h5oh",
+				"story_27696927"
+			],
+			"objectID": "27697954",
+			"_highlightResult": {
+				"author": {
+					"value": "c2h5oh",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"comment_text": {
+					"value": "Sadly still a thing.<p>Wire transfers in Canada (even domestic ones) are not available in online personal banking. You have to show up in a branch or call. Either way you will have to pay stupid amount of money for one. Someone receiving one will also have to pay &quot;administrative fee&quot; for the privilege - iirc it was $10-20 per wire transfer.<p>All you have are &quot;email transfers&quot; using Interac, which are usually capped at $3000 per transfer &amp; per day.<p>So cheques. For everything that you can't/won't pay with CC. Rent? Write your landlord some cheques, preferably in advance for the duration of the lease, etc.<p>After moving to Canada almost a decade ago it felt like I was experiencing late 90's EU banking all over again, except European banking was rapidly evolving then and the only improvement I've seen in Canadian banking in close to 10 years were:<p>- I could set online banking password longer than 8 characters and use characters other than letters (I'm serious)<p>- I can cash a cheque by taking photos of it with a <em>mobile</em> app<p>The only 2FA available for personal banking is still SMS and you have those dumb &quot;security&quot; questions everywhere.",
+					"matchLevel": "full",
+					"fullyHighlighted": false,
+					"matchedWords": [
+						"mobile"
+					]
+				},
+				"story_title": {
+					"value": "We Infiltrated a Counterfeit Check Ring Now What?",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"story_url": {
+					"value": "https://krebsonsecurity.com/2021/06/we-infiltrated-a-counterfeit-check-ring-now-what/",
+					"matchLevel": "none",
+					"matchedWords": []
+				}
+			}
+		},
+		{
+			"created_at": "2021-07-01T10:41:48.000Z",
+			"title": null,
+			"url": null,
+			"author": "WanderPanda",
+			"points": null,
+			"story_text": null,
+			"comment_text": "Now I&#x27;m wondering if there is something like the &quot;what Andy giveth, Bill taketh away&quot; for mobile communications?",
+			"num_comments": null,
+			"story_id": 27696267,
+			"story_title": "Download Speeds: What Do 2G, 3G, 4G and 5G Mean",
+			"story_url": "https://kenstechtips.com/index.php/download-speeds-2g-3g-and-4g-actual-meaning",
+			"parent_id": 27697841,
+			"created_at_i": 1625136108,
+			"_tags": [
+				"comment",
+				"author_WanderPanda",
+				"story_27696267"
+			],
+			"objectID": "27697880",
+			"_highlightResult": {
+				"author": {
+					"value": "WanderPanda",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"comment_text": {
+					"value": "Now I'm wondering if there is something like the &quot;what Andy giveth, Bill taketh away&quot; for <em>mobile</em> communications?",
+					"matchLevel": "full",
+					"fullyHighlighted": false,
+					"matchedWords": [
+						"mobile"
+					]
+				},
+				"story_title": {
+					"value": "Download Speeds: What Do 2G, 3G, 4G and 5G Mean",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"story_url": {
+					"value": "https://kenstechtips.com/index.php/download-speeds-2g-3g-and-4g-actual-meaning",
+					"matchLevel": "none",
+					"matchedWords": []
+				}
+			}
+		},
+		{
+			"created_at": "2021-07-01T10:17:00.000Z",
+			"title": null,
+			"url": null,
+			"author": "Ghexor",
+			"points": null,
+			"story_text": null,
+			"comment_text": "I&#x27;m a big fan of reducing the webs addictive footprint. So thank you for building this, I hope it gains traction :)<p>I&#x27;ve found ublock origin&#x27;s &quot;picking&quot;-feature quite powerful. It allows you to just pick and permanently remove any element on a page. My youtube pretty much looks just like what this addon does. I think with a simpler UI it could empower many more people to handle their online addictions. This seems especially important on mobile and sadly also particularly difficult.",
+			"num_comments": null,
+			"story_id": 27697286,
+			"story_title": "Show HN: Less Addictive YouTube – a cross-browser plugin",
+			"story_url": "https://github.com/JesseDrain/Less-Addictive-YouTube",
+			"parent_id": 27697286,
+			"created_at_i": 1625134620,
+			"_tags": [
+				"comment",
+				"author_Ghexor",
+				"story_27697286"
+			],
+			"objectID": "27697786",
+			"_highlightResult": {
+				"author": {
+					"value": "Ghexor",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"comment_text": {
+					"value": "I'm a big fan of reducing the webs addictive footprint. So thank you for building this, I hope it gains traction :)<p>I've found ublock origin's &quot;picking&quot;-feature quite powerful. It allows you to just pick and permanently remove any element on a page. My youtube pretty much looks just like what this addon does. I think with a simpler UI it could empower many more people to handle their online addictions. This seems especially important on <em>mobile</em> and sadly also particularly difficult.",
+					"matchLevel": "full",
+					"fullyHighlighted": false,
+					"matchedWords": [
+						"mobile"
+					]
+				},
+				"story_title": {
+					"value": "Show HN: Less Addictive YouTube – a cross-browser plugin",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"story_url": {
+					"value": "https://github.com/JesseDrain/Less-Addictive-YouTube",
+					"matchLevel": "none",
+					"matchedWords": []
+				}
+			}
+		},
+		{
+			"created_at": "2021-07-01T09:57:45.000Z",
+			"title": null,
+			"url": null,
+			"author": "techvillageseo",
+			"points": null,
+			"story_text": null,
+			"comment_text": "tech village\nWeb design company in Egypt,Mobile App Design and \ndigital marketing agency in Egypt that offers services \nlike web hosting, and SEO",
+			"num_comments": null,
+			"story_id": 27697700,
+			"story_title": "Are you searching for the best digital marketing agency in Egypt?",
+			"story_url": "https://techvillageco.com/",
+			"parent_id": 27697700,
+			"created_at_i": 1625133465,
+			"_tags": [
+				"comment",
+				"author_techvillageseo",
+				"story_27697700"
+			],
+			"objectID": "27697701",
+			"_highlightResult": {
+				"author": {
+					"value": "techvillageseo",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"comment_text": {
+					"value": "tech village\nWeb design company in Egypt,<em>Mobile</em> App Design and \ndigital marketing agency in Egypt that offers services \nlike web hosting, and SEO",
+					"matchLevel": "full",
+					"fullyHighlighted": false,
+					"matchedWords": [
+						"mobile"
+					]
+				},
+				"story_title": {
+					"value": "Are you searching for the best digital marketing agency in Egypt?",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"story_url": {
+					"value": "https://techvillageco.com/",
+					"matchLevel": "none",
+					"matchedWords": []
+				}
+			}
+		},
+		{
+			"created_at": "2021-07-01T09:38:03.000Z",
+			"title": null,
+			"url": null,
+			"author": "beerandt",
+			"points": null,
+			"story_text": null,
+			"comment_text": "I find it easier to write&#x2F;recieve a check and use it with my banks mobile deposit than any of the reinvented wheels.<p>I don&#x27;t understand why we can mobile deposit checks, but using a bank app generated and signed jpg check isn&#x27;t an option.<p>Email, txt, or even print-mail-deposit.<p>Recipients could do the same. Mobile deposit app opens the file instead of taking a picture, automatically stamp your endorsement, submit, done. Or print and deposit.<p>It could have been so simple.",
+			"num_comments": null,
+			"story_id": 27696927,
+			"story_title": "We Infiltrated a Counterfeit Check Ring Now What?",
+			"story_url": "https://krebsonsecurity.com/2021/06/we-infiltrated-a-counterfeit-check-ring-now-what/",
+			"parent_id": 27697551,
+			"created_at_i": 1625132283,
+			"_tags": [
+				"comment",
+				"author_beerandt",
+				"story_27696927"
+			],
+			"objectID": "27697604",
+			"_highlightResult": {
+				"author": {
+					"value": "beerandt",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"comment_text": {
+					"value": "I find it easier to write/recieve a check and use it with my banks <em>mobile</em> deposit than any of the reinvented wheels.<p>I don't understand why we can <em>mobile</em> deposit checks, but using a bank app generated and signed jpg check isn't an option.<p>Email, txt, or even print-mail-deposit.<p>Recipients could do the same. <em>Mobile</em> deposit app opens the file instead of taking a picture, automatically stamp your endorsement, submit, done. Or print and deposit.<p>It could have been so simple.",
+					"matchLevel": "full",
+					"fullyHighlighted": false,
+					"matchedWords": [
+						"mobile"
+					]
+				},
+				"story_title": {
+					"value": "We Infiltrated a Counterfeit Check Ring Now What?",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"story_url": {
+					"value": "https://krebsonsecurity.com/2021/06/we-infiltrated-a-counterfeit-check-ring-now-what/",
+					"matchLevel": "none",
+					"matchedWords": []
+				}
+			}
+		},
+		{
+			"created_at": "2021-07-01T09:24:05.000Z",
+			"title": null,
+			"url": null,
+			"author": "axiosgunnar",
+			"points": null,
+			"story_text": null,
+			"comment_text": "Good intro article, but<p>&gt; For instance, a connected car travelling on the motorway at 70mph (110km&#x2F;h) would travel almost 2 meters in the amount of time it takes for a 4G mobile network to respond. The lower latency of a 5G connection will allow mobile technology to be used more safely in cars.<p>God please no!",
+			"num_comments": null,
+			"story_id": 27696267,
+			"story_title": "Download Speeds: What Do 2G, 3G, 4G and 5G Mean",
+			"story_url": "https://kenstechtips.com/index.php/download-speeds-2g-3g-and-4g-actual-meaning",
+			"parent_id": 27696267,
+			"created_at_i": 1625131445,
+			"_tags": [
+				"comment",
+				"author_axiosgunnar",
+				"story_27696267"
+			],
+			"objectID": "27697544",
+			"_highlightResult": {
+				"author": {
+					"value": "axiosgunnar",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"comment_text": {
+					"value": "Good intro article, but<p>&gt; For instance, a connected car travelling on the motorway at 70mph (110km/h) would travel almost 2 meters in the amount of time it takes for a 4G <em>mobile</em> network to respond. The lower latency of a 5G connection will allow <em>mobile</em> technology to be used more safely in cars.<p>God please no!",
+					"matchLevel": "full",
+					"fullyHighlighted": false,
+					"matchedWords": [
+						"mobile"
+					]
+				},
+				"story_title": {
+					"value": "Download Speeds: What Do 2G, 3G, 4G and 5G Mean",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"story_url": {
+					"value": "https://kenstechtips.com/index.php/download-speeds-2g-3g-and-4g-actual-meaning",
+					"matchLevel": "none",
+					"matchedWords": []
+				}
+			}
+		},
+		{
+			"created_at": "2021-07-01T08:01:13.000Z",
+			"title": null,
+			"url": null,
+			"author": "Cthulhu_",
+			"points": null,
+			"story_text": null,
+			"comment_text": "Despite what they want you to believe, 5G is still very far away; it&#x27;ll require a full rebuild of some mobile networks and their back-end systems.<p>A term to look for is &quot;5G Core Network&quot;, which is basically &quot;5G native&quot;. But there&#x27;s very few providers that have that - simply because there&#x27;s few hard- and software providers that can deliver the supplies needed.<p>5G covers a lot: <a href=\"https:&#x2F;&#x2F;www.3gpp.org&#x2F;dynareport&#x2F;SpecList.htm?release=Rel-15&amp;tech=4&amp;ts=1&amp;tr=0\" rel=\"nofollow\">https:&#x2F;&#x2F;www.3gpp.org&#x2F;dynareport&#x2F;SpecList.htm?release=Rel-15&amp;...</a><p>Disclaimer: I currently work for a player in the mobile networking space. Our software solution can act as a bridge between older and newer &quot;g&quot; systems and implements various aspects of these mobile networks.<p>For our 5G offering we&#x27;ve just included cURL as a library, apparently (I&#x27;m not involved in our core system, just the configuration interface).",
+			"num_comments": null,
+			"story_id": 27696267,
+			"story_title": "Download Speeds: What Do 2G, 3G, 4G and 5G Mean",
+			"story_url": "https://kenstechtips.com/index.php/download-speeds-2g-3g-and-4g-actual-meaning",
+			"parent_id": 27696267,
+			"created_at_i": 1625126473,
+			"_tags": [
+				"comment",
+				"author_Cthulhu_",
+				"story_27696267"
+			],
+			"objectID": "27697203",
+			"_highlightResult": {
+				"author": {
+					"value": "Cthulhu_",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"comment_text": {
+					"value": "Despite what they want you to believe, 5G is still very far away; it'll require a full rebuild of some <em>mobile</em> networks and their back-end systems.<p>A term to look for is &quot;5G Core Network&quot;, which is basically &quot;5G native&quot;. But there's very few providers that have that - simply because there's few hard- and software providers that can deliver the supplies needed.<p>5G covers a lot: <a href=\"https://www.3gpp.org/dynareport/SpecList.htm?release=Rel-15&amp;tech=4&amp;ts=1&amp;tr=0\" rel=\"nofollow\">https://www.3gpp.org/dynareport/SpecList.htm?release=Rel-15&amp;...</a><p>Disclaimer: I currently work for a player in the <em>mobile</em> networking space. Our software solution can act as a bridge between older and newer &quot;g&quot; systems and implements various aspects of these <em>mobile</em> networks.<p>For our 5G offering we've just included cURL as a library, apparently (I'm not involved in our core system, just the configuration interface).",
+					"matchLevel": "full",
+					"fullyHighlighted": false,
+					"matchedWords": [
+						"mobile"
+					]
+				},
+				"story_title": {
+					"value": "Download Speeds: What Do 2G, 3G, 4G and 5G Mean",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"story_url": {
+					"value": "https://kenstechtips.com/index.php/download-speeds-2g-3g-and-4g-actual-meaning",
+					"matchLevel": "none",
+					"matchedWords": []
+				}
+			}
+		},
+		{
+			"created_at": "2021-07-01T07:36:55.000Z",
+			"title": "PyTorch Mobile",
+			"url": "https://pytorch.org/mobile/home/",
+			"author": "lnyan",
+			"points": 4,
+			"story_text": null,
+			"comment_text": null,
+			"num_comments": 0,
+			"story_id": null,
+			"story_title": null,
+			"story_url": null,
+			"parent_id": null,
+			"created_at_i": 1625125015,
+			"_tags": [
+				"story",
+				"author_lnyan",
+				"story_27697114"
+			],
+			"objectID": "27697114",
+			"_highlightResult": {
+				"title": {
+					"value": "PyTorch <em>Mobile</em>",
+					"matchLevel": "full",
+					"fullyHighlighted": false,
+					"matchedWords": [
+						"mobile"
+					]
+				},
+				"url": {
+					"value": "https://pytorch.org/<em>mobile</em>/home/",
+					"matchLevel": "full",
+					"fullyHighlighted": false,
+					"matchedWords": [
+						"mobile"
+					]
+				},
+				"author": {
+					"value": "lnyan",
+					"matchLevel": "none",
+					"matchedWords": []
+				}
+			}
+		},
+		{
+			"created_at": "2021-07-01T07:09:10.000Z",
+			"title": null,
+			"url": null,
+			"author": "keithwinstein",
+			"points": null,
+			"story_text": null,
+			"comment_text": "I&#x27;m not an expert in UMTS-style cellular networks, but I think the numbers in this article are misguided or incorrect. :-(<p>E.g., the article seems to conflate &quot;Internet-style&quot; measurements of practical round-trip latency over a network path, with &quot;telecom-style&quot; measurements of round-trip latency across a single unloaded radio hop with immediate schedule availability. E.g. it gives a figure of &quot;50ms&quot; for the typical latency of 4G, and &quot;1ms&quot; for the typical latency of 5G. I don&#x27;t think this is an acceptable comparison.<p>&quot;50ms&quot; is a believable ICMP ping time from a commercial LTE service, including delay to get a resource block, to sojourn queues inside the network, etc. (I just tried on T-Mobile LTE and am getting 21-69 milliseconds RTT, mean 36 ms, to the next hop.)<p>By contrast, &quot;1ms&quot; for 5G sounds like a 3GPP &quot;user plane latency&quot; figure (and even then, only for the &quot;uRLLC&quot; version of 5G that is probably only going to be used for more-exotic purposes). This is a lower-level latency measurement made on a single unloaded radio hop. You cannot compare the two.<p>I think the more-accurate 3GPP user-plane latency figures would be:<p>- LTE: about 5-6 ms (see <a href=\"https:&#x2F;&#x2F;communities.theiet.org&#x2F;blogs&#x2F;426&#x2F;444\" rel=\"nofollow\">https:&#x2F;&#x2F;communities.theiet.org&#x2F;blogs&#x2F;426&#x2F;444</a> or <a href=\"https:&#x2F;&#x2F;www.techplayon.com&#x2F;5g-nr-user-plane-latency&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.techplayon.com&#x2F;5g-nr-user-plane-latency&#x2F;</a> or <a href=\"https:&#x2F;&#x2F;www.artizanetworks.com&#x2F;resources&#x2F;tutorials&#x2F;req_lte.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.artizanetworks.com&#x2F;resources&#x2F;tutorials&#x2F;req_lte.h...</a>)<p>- 5G eMBB (&quot;mobile broadband&quot; service ): about 3-4 ms (<a href=\"https:&#x2F;&#x2F;www.techplayon.com&#x2F;5g-nr-user-plane-latency&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.techplayon.com&#x2F;5g-nr-user-plane-latency&#x2F;</a> , <a href=\"https:&#x2F;&#x2F;www.itu.int&#x2F;en&#x2F;ITU-R&#x2F;Documents&#x2F;ITU-R-FAQ-IMT.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;www.itu.int&#x2F;en&#x2F;ITU-R&#x2F;Documents&#x2F;ITU-R-FAQ-IMT.pdf</a>)<p>- 5G uRLLC (&quot;Ultra-reliable low-latency communication&quot;): about 0.2-0.7 ms (see above)<p>The practical IP round-trip time with all of these networks is much larger than the above; e.g. ~21-69 ms for LTE, and 22-76 ms for 5G eMBB services (<a href=\"https:&#x2F;&#x2F;www.lightreading.com&#x2F;the-edge&#x2F;how-5g-is-pushing-envelope-on-latency-&#x2F;d&#x2F;d-id&#x2F;766273\" rel=\"nofollow\">https:&#x2F;&#x2F;www.lightreading.com&#x2F;the-edge&#x2F;how-5g-is-pushing-enve...</a>). And even those figures are in the absence of load <i>to or from the UE</i>; if traffic has filled up the queue of the uplink (on the baseband chip) or downlink (in the UE-specific queue on the base station&#x2F;eNodeB&#x2F;gNodeB), users can experience latencies of 500+ milliseconds. This is called &quot;bufferbloat&quot; and it comes from a refusal by the baseband and eNodeB&#x2F;gNodeB vendors to deploy queue disciplines that queue on a per-flow basis, or mark or drop packets when queues are large. (I have talked to many vendors about this, and the prevailing attitude is somewhere between &quot;we are the phone company; we&#x27;re legally obligated to transmit 99.999% of all packets to the endpoint, no matter how delayed everything gets&quot; and &quot;if there were an actual problem with latencies over our networks, companies would be coming to us like Facebook did and paying us a bajillion dollars to deploy custom traffic rules to let their traffic skip the line; nobody else has offered us this kind of money for a custom traffic rule, ergo there is no problem.&quot;)<p>Similarly, the article seems to somewhat conflate improvements in theoretical throughputs with improvements in the &quot;typical download speed&quot; a user might experience. The latter is not <i>that</i> strongly related to the air interface standard (e.g. LTE or 5G-NR) because any flow&#x27;s experience depends heavily on how many other flows are sharing the same constrained resource, which in turn depends on (a) how much spectrum has the carrier licensed in your area, (b) how many base stations has the carrier decided to build&#x2F;lease in your area, (c) how many other customers does this carrier have, trying to download right now through this base station, on this slice of spectrum, at this moment, and of course (d) is the base station actually close to you [do you have good SNR?] or is it spending all its airtime on slower modulation and coding?<p>Carriers sometimes use improvements in the air interface (which improve throughput-per-Hz) to save money by deploying less spectrum or larger cells. So even if a newer&#x2F;fancier air interface is x% faster on a per-Hz basis, the benefits may not fully accrue to the users, if the carrier takes advantage of the improvement to deploy bigger cells, or less spectrum per cell, etc. (I once sat in a meeting with AT&amp;T around the time of the 3G-to-4G transition, and in at least this particular setting, they were planning for roughly 1&#x2F;3 of the improved spectrum efficiency to accrue towards better service for their users, and the remaining 2&#x2F;3 towards saving resources for themselves. So, yes, improvements in technology do somewhat improve service for users, but... in some cases that may be a minority of the overall benefit.)<p>For more rants on this topic:<p><a href=\"http:&#x2F;&#x2F;blog.keithw.org&#x2F;2013&#x2F;07&#x2F;3g-and-me.html\" rel=\"nofollow\">http:&#x2F;&#x2F;blog.keithw.org&#x2F;2013&#x2F;07&#x2F;3g-and-me.html</a><p><a href=\"https:&#x2F;&#x2F;www.marketplace.org&#x2F;2010&#x2F;11&#x2F;05&#x2F;tech&#x2F;4g-networks-dont-exist-or-do-they&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.marketplace.org&#x2F;2010&#x2F;11&#x2F;05&#x2F;tech&#x2F;4g-networks-dont...</a><p>And, obligatory plug! In September, the IAB is holding a workshop on Measuring Network Quality for End-Users (<a href=\"https:&#x2F;&#x2F;www.iab.org&#x2F;activities&#x2F;workshops&#x2F;network-quality&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.iab.org&#x2F;activities&#x2F;workshops&#x2F;network-quality&#x2F;</a>), with submissions due August 2. If you care about this stuff,  and maybe you know something or have a perspective that could be helpful to the Internet community, <i>please</i> consider submitting to and participating in the workshop.",
+			"num_comments": null,
+			"story_id": 27696267,
+			"story_title": "Download Speeds: What Do 2G, 3G, 4G and 5G Mean",
+			"story_url": "https://kenstechtips.com/index.php/download-speeds-2g-3g-and-4g-actual-meaning",
+			"parent_id": 27696267,
+			"created_at_i": 1625123350,
+			"_tags": [
+				"comment",
+				"author_keithwinstein",
+				"story_27696267"
+			],
+			"objectID": "27696997",
+			"_highlightResult": {
+				"author": {
+					"value": "keithwinstein",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"comment_text": {
+					"value": "I'm not an expert in UMTS-style cellular networks, but I think the numbers in this article are misguided or incorrect. :-(<p>E.g., the article seems to conflate &quot;Internet-style&quot; measurements of practical round-trip latency over a network path, with &quot;telecom-style&quot; measurements of round-trip latency across a single unloaded radio hop with immediate schedule availability. E.g. it gives a figure of &quot;50ms&quot; for the typical latency of 4G, and &quot;1ms&quot; for the typical latency of 5G. I don't think this is an acceptable comparison.<p>&quot;50ms&quot; is a believable ICMP ping time from a commercial LTE service, including delay to get a resource block, to sojourn queues inside the network, etc. (I just tried on T-<em>Mobile</em> LTE and am getting 21-69 milliseconds RTT, mean 36 ms, to the next hop.)<p>By contrast, &quot;1ms&quot; for 5G sounds like a 3GPP &quot;user plane latency&quot; figure (and even then, only for the &quot;uRLLC&quot; version of 5G that is probably only going to be used for more-exotic purposes). This is a lower-level latency measurement made on a single unloaded radio hop. You cannot compare the two.<p>I think the more-accurate 3GPP user-plane latency figures would be:<p>- LTE: about 5-6 ms (see <a href=\"https://communities.theiet.org/blogs/426/444\" rel=\"nofollow\">https://communities.theiet.org/blogs/426/444</a> or <a href=\"https://www.techplayon.com/5g-nr-user-plane-latency/\" rel=\"nofollow\">https://www.techplayon.com/5g-nr-user-plane-latency/</a> or <a href=\"https://www.artizanetworks.com/resources/tutorials/req_lte.html\" rel=\"nofollow\">https://www.artizanetworks.com/resources/tutorials/req_lte.h...</a>)<p>- 5G eMBB (&quot;<em>mobile</em> broadband&quot; service ): about 3-4 ms (<a href=\"https://www.techplayon.com/5g-nr-user-plane-latency/\" rel=\"nofollow\">https://www.techplayon.com/5g-nr-user-plane-latency/</a> , <a href=\"https://www.itu.int/en/ITU-R/Documents/ITU-R-FAQ-IMT.pdf\" rel=\"nofollow\">https://www.itu.int/en/ITU-R/Documents/ITU-R-FAQ-IMT.pdf</a>)<p>- 5G uRLLC (&quot;Ultra-reliable low-latency communication&quot;): about 0.2-0.7 ms (see above)<p>The practical IP round-trip time with all of these networks is much larger than the above; e.g. ~21-69 ms for LTE, and 22-76 ms for 5G eMBB services (<a href=\"https://www.lightreading.com/the-edge/how-5g-is-pushing-envelope-on-latency-/d/d-id/766273\" rel=\"nofollow\">https://www.lightreading.com/the-edge/how-5g-is-pushing-enve...</a>). And even those figures are in the absence of load <i>to or from the UE</i>; if traffic has filled up the queue of the uplink (on the baseband chip) or downlink (in the UE-specific queue on the base station/eNodeB/gNodeB), users can experience latencies of 500+ milliseconds. This is called &quot;bufferbloat&quot; and it comes from a refusal by the baseband and eNodeB/gNodeB vendors to deploy queue disciplines that queue on a per-flow basis, or mark or drop packets when queues are large. (I have talked to many vendors about this, and the prevailing attitude is somewhere between &quot;we are the phone company; we're legally obligated to transmit 99.999% of all packets to the endpoint, no matter how delayed everything gets&quot; and &quot;if there were an actual problem with latencies over our networks, companies would be coming to us like Facebook did and paying us a bajillion dollars to deploy custom traffic rules to let their traffic skip the line; nobody else has offered us this kind of money for a custom traffic rule, ergo there is no problem.&quot;)<p>Similarly, the article seems to somewhat conflate improvements in theoretical throughputs with improvements in the &quot;typical download speed&quot; a user might experience. The latter is not <i>that</i> strongly related to the air interface standard (e.g. LTE or 5G-NR) because any flow's experience depends heavily on how many other flows are sharing the same constrained resource, which in turn depends on (a) how much spectrum has the carrier licensed in your area, (b) how many base stations has the carrier decided to build/lease in your area, (c) how many other customers does this carrier have, trying to download right now through this base station, on this slice of spectrum, at this moment, and of course (d) is the base station actually close to you [do you have good SNR?] or is it spending all its airtime on slower modulation and coding?<p>Carriers sometimes use improvements in the air interface (which improve throughput-per-Hz) to save money by deploying less spectrum or larger cells. So even if a newer/fancier air interface is x% faster on a per-Hz basis, the benefits may not fully accrue to the users, if the carrier takes advantage of the improvement to deploy bigger cells, or less spectrum per cell, etc. (I once sat in a meeting with AT&amp;T around the time of the 3G-to-4G transition, and in at least this particular setting, they were planning for roughly 1/3 of the improved spectrum efficiency to accrue towards better service for their users, and the remaining 2/3 towards saving resources for themselves. So, yes, improvements in technology do somewhat improve service for users, but... in some cases that may be a minority of the overall benefit.)<p>For more rants on this topic:<p><a href=\"http://blog.keithw.org/2013/07/3g-and-me.html\" rel=\"nofollow\">http://blog.keithw.org/2013/07/3g-and-me.html</a><p><a href=\"https://www.marketplace.org/2010/11/05/tech/4g-networks-dont-exist-or-do-they/\" rel=\"nofollow\">https://www.marketplace.org/2010/11/05/tech/4g-networks-dont...</a><p>And, obligatory plug! In September, the IAB is holding a workshop on Measuring Network Quality for End-Users (<a href=\"https://www.iab.org/activities/workshops/network-quality/\" rel=\"nofollow\">https://www.iab.org/activities/workshops/network-quality/</a>), with submissions due August 2. If you care about this stuff,  and maybe you know something or have a perspective that could be helpful to the Internet community, <i>please</i> consider submitting to and participating in the workshop.",
+					"matchLevel": "full",
+					"fullyHighlighted": false,
+					"matchedWords": [
+						"mobile"
+					]
+				},
+				"story_title": {
+					"value": "Download Speeds: What Do 2G, 3G, 4G and 5G Mean",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"story_url": {
+					"value": "https://kenstechtips.com/index.php/download-speeds-2g-3g-and-4g-actual-meaning",
+					"matchLevel": "none",
+					"matchedWords": []
+				}
+			}
+		},
+		{
+			"created_at": "2021-07-01T06:31:35.000Z",
+			"title": null,
+			"url": null,
+			"author": "jwpalmer6",
+			"points": null,
+			"story_text": null,
+			"comment_text": "Sorry about that! Getting this into a really amazing responsive state was beyond my abilities. Plus I developed it on 4K display, so I probably accidentally made things challenging on smaller displays. I’m definitely going to take mobile into consideration from the beginning on my next project.",
+			"num_comments": null,
+			"story_id": 27689664,
+			"story_title": "Show HN: An interactive visual history of Git development",
+			"story_url": "https://git-history.jpalmer.dev/",
+			"parent_id": 27696772,
+			"created_at_i": 1625121095,
+			"_tags": [
+				"comment",
+				"author_jwpalmer6",
+				"story_27689664"
+			],
+			"objectID": "27696818",
+			"_highlightResult": {
+				"author": {
+					"value": "jwpalmer6",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"comment_text": {
+					"value": "Sorry about that! Getting this into a really amazing responsive state was beyond my abilities. Plus I developed it on 4K display, so I probably accidentally made things challenging on smaller displays. I’m definitely going to take <em>mobile</em> into consideration from the beginning on my next project.",
+					"matchLevel": "full",
+					"fullyHighlighted": false,
+					"matchedWords": [
+						"mobile"
+					]
+				},
+				"story_title": {
+					"value": "Show HN: An interactive visual history of Git development",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"story_url": {
+					"value": "https://git-history.jpalmer.dev/",
+					"matchLevel": "none",
+					"matchedWords": []
+				}
+			}
+		},
+		{
+			"created_at": "2021-07-01T05:28:39.000Z",
+			"title": null,
+			"url": null,
+			"author": "adventured",
+			"points": null,
+			"story_text": null,
+			"comment_text": "The US more than earned the advantage. It built half of the global tech industry from the ground up.<p>Shall I begin listing all the consequential technologies that were invented in the US in the post WW2 era? It&#x27;s an exceptionally long, comprehensive list, spanning from the GUI to the router to the microprocessor to Unix to the transistor to the LED and LCD to DSP to ethernet to RAM to hypertext to streaming media to the digital modem to the PC modem to the cable modem to the modern laser to the supercomputer to the personal computer &amp; mobile computer to the PDA to digital graphics to virtual reality to USB to the cellphone &amp; smartphone to the IBM hard drive &amp; solid state storage to fiber optics to email to GPS to the relational database to Java &amp; C &amp; C++ &amp; JavaScript &amp; Basic to TCP&#x2F;IP to the spreadsheet to the digital camera to the lithium ion battery all the way down to the mouse. And a zillion more things.<p>To pretend that the US didn&#x27;t earn its advantage, is plain bunk. The entire tech industry rides on the shoulders of what the US built up over the past six decades.",
+			"num_comments": null,
+			"story_id": 27696235,
+			"story_title": "Tell HN: Don't root for WFH, it might destroy well-paying jobs",
+			"story_url": null,
+			"parent_id": 27696366,
+			"created_at_i": 1625117319,
+			"_tags": [
+				"comment",
+				"author_adventured",
+				"story_27696235"
+			],
+			"objectID": "27696508",
+			"_highlightResult": {
+				"author": {
+					"value": "adventured",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"comment_text": {
+					"value": "The US more than earned the advantage. It built half of the global tech industry from the ground up.<p>Shall I begin listing all the consequential technologies that were invented in the US in the post WW2 era? It's an exceptionally long, comprehensive list, spanning from the GUI to the router to the microprocessor to Unix to the transistor to the LED and LCD to DSP to ethernet to RAM to hypertext to streaming media to the digital modem to the PC modem to the cable modem to the modern laser to the supercomputer to the personal computer &amp; <em>mobile</em> computer to the PDA to digital graphics to virtual reality to USB to the cellphone &amp; smartphone to the IBM hard drive &amp; solid state storage to fiber optics to email to GPS to the relational database to Java &amp; C &amp; C++ &amp; JavaScript &amp; Basic to TCP/IP to the spreadsheet to the digital camera to the lithium ion battery all the way down to the mouse. And a zillion more things.<p>To pretend that the US didn't earn its advantage, is plain bunk. The entire tech industry rides on the shoulders of what the US built up over the past six decades.",
+					"matchLevel": "full",
+					"fullyHighlighted": false,
+					"matchedWords": [
+						"mobile"
+					]
+				},
+				"story_title": {
+					"value": "Tell HN: Don't root for WFH, it might destroy well-paying jobs",
+					"matchLevel": "none",
+					"matchedWords": []
+				}
+			}
+		},
+		{
+			"created_at": "2021-07-01T05:25:59.000Z",
+			"title": null,
+			"url": null,
+			"author": "mareksotak",
+			"points": null,
+			"story_text": null,
+			"comment_text": "I have been quite overwhelmed by the feedback (through the feedback button), attention and the number of visits this got. Thank you, really appreciate it!<p>Sorry that the mobile version is not yet ready. I am still trying to figure out how to best do this on mobile, to still make it a dashboard but make it useful on small screen with the same&#x2F;similar experience like on the desktop.",
+			"num_comments": null,
+			"story_id": 27690230,
+			"story_title": "Show HN: Time, habit and goal tracker that displays as a flexible dashboard",
+			"story_url": "https://getkairo.com/tracker",
+			"parent_id": 27690230,
+			"created_at_i": 1625117159,
+			"_tags": [
+				"comment",
+				"author_mareksotak",
+				"story_27690230"
+			],
+			"objectID": "27696493",
+			"_highlightResult": {
+				"author": {
+					"value": "mareksotak",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"comment_text": {
+					"value": "I have been quite overwhelmed by the feedback (through the feedback button), attention and the number of visits this got. Thank you, really appreciate it!<p>Sorry that the <em>mobile</em> version is not yet ready. I am still trying to figure out how to best do this on <em>mobile</em>, to still make it a dashboard but make it useful on small screen with the same/similar experience like on the desktop.",
+					"matchLevel": "full",
+					"fullyHighlighted": false,
+					"matchedWords": [
+						"mobile"
+					]
+				},
+				"story_title": {
+					"value": "Show HN: Time, habit and goal tracker that displays as a flexible dashboard",
+					"matchLevel": "none",
+					"matchedWords": []
+				},
+				"story_url": {
+					"value": "https://getkairo.com/tracker",
+					"matchLevel": "none",
+					"matchedWords": []
+				}
+			}
+		}
+	],
+	"nbHits": 244865,
+	"page": 0,
+	"nbPages": 50,
+	"hitsPerPage": 20,
+	"exhaustiveNbHits": false,
+	"query": "mobile",
+	"params": "advancedSyntax=true&analytics=true&analyticsTags=backend&query=mobile",
+	"processingTimeMS": 5
 }
