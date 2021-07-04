@@ -5,7 +5,7 @@
 			"title": "one",
 			"url": null,
 			"author": "Austin_Conlon",
-			"story_id": 1,
+			"objectID": 1,
 			"story_title": "one",
 			"story_url": null
     },
@@ -14,7 +14,7 @@
 			"title": "two",
 			"url": null,
 			"author": "Austin_Conlon",
-			"story_id": 2,
+			"objectID": 2,
 			"story_title": "two",
 			"story_url": null
     },
@@ -23,7 +23,7 @@
 			"title": "three",
 			"url": null,
 			"author": "Austin_Conlon",
-			"story_id": 3,
+			"objectID": 3,
 			"story_title": "three",
 			"story_url": null
     }
