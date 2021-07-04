@@ -1,177 +1,31 @@
 {
-	"hits": [
-		{
-			"created_at": "2021-07-01T15:03:05.000Z",
-			"title": null,
-			"url": null,
-			"author": "Austin_Conlon",
-			"points": null,
-			"story_text": null,
-			"comment_text": "Software engineer for Apple platforms (iOS, iPadOS, macOS, tvOS, watchOS)<p>Location: Mountain View, CA<p>Technologies: Objective-C, Swift, SwiftUI<p>App Store apps: <a href=\"https:&#x2F;&#x2F;apps.apple.com&#x2F;developer&#x2F;austin-conlon&#x2F;id1189508961\" rel=\"nofollow\">https:&#x2F;&#x2F;apps.apple.com&#x2F;developer&#x2F;austin-conlon&#x2F;id1189508961</a><p>GitHub: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;AustinConlon\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;AustinConlon</a><p>Email&#x2F;iMessage: austinconlon@icloud.com<p>Preference is for freelance or contract work.<p>Rate is 120%-140% of the market U.S. rate of a full time mobile developer (<a href=\"https:&#x2F;&#x2F;insights.stackoverflow.com&#x2F;survey&#x2F;2020#work-salary-by-developer-type-united-states\" rel=\"nofollow\">https:&#x2F;&#x2F;insights.stackoverflow.com&#x2F;survey&#x2F;2020#work-salary-b...</a>) to account for the overhead of contracting.",
-			"num_comments": null,
-			"story_id": 27699702,
-			"story_title": "Ask HN: Who wants to be hired? (July 2021)",
-			"story_url": null,
-			"parent_id": 27699702,
-			"created_at_i": 1625151785,
-			"_tags": [
-				"comment",
-				"author_Austin_Conlon",
-				"story_27699702"
-			],
-			"objectID": "27699745",
-			"_highlightResult": {
-				"author": {
-					"value": "Austin_Conlon",
-					"matchLevel": "none",
-					"matchedWords": []
-				},
-				"comment_text": {
-					"value": "Software engineer for Apple platforms (iOS, iPadOS, macOS, tvOS, watchOS)<p>Location: Mountain View, CA<p>Technologies: Objective-C, Swift, SwiftUI<p>App Store apps: <a href=\"https://apps.apple.com/developer/austin-conlon/id1189508961\" rel=\"nofollow\">https://apps.apple.com/developer/austin-conlon/id1189508961</a><p>GitHub: <a href=\"https://github.com/AustinConlon\" rel=\"nofollow\">https://github.com/AustinConlon</a><p>Email/iMessage: austinconlon@icloud.com<p>Preference is for freelance or contract work.<p>Rate is 120%-140% of the market U.S. rate of a full time <em>mobile</em> developer (<a href=\"https://insights.stackoverflow.com/survey/2020#work-salary-by-developer-type-united-states\" rel=\"nofollow\">https://insights.stackoverflow.com/survey/2020#work-salary-b...</a>) to account for the overhead of contracting.",
-					"matchLevel": "full",
-					"fullyHighlighted": false,
-					"matchedWords": [
-						"mobile"
-					]
-				},
-				"story_title": {
-					"value": "Ask HN: Who wants to be hired? (July 2021)",
-					"matchLevel": "none",
-					"matchedWords": []
-				}
-			}
-		},
-		{
-			"created_at": "2021-07-01T15:02:30.000Z",
-			"title": null,
-			"url": null,
-			"author": "bolt28",
-			"points": null,
-			"story_text": null,
-			"comment_text": "Bolt | Software Engineering | <a href=\"https:&#x2F;&#x2F;www.bolt.com\" rel=\"nofollow\">https:&#x2F;&#x2F;www.bolt.com</a><p>Commerce is moving online faster than ever, and our Engineering team (ex FB&#x2F;Google&#x2F;Twitter&#x2F;Uber) cannot build fast enough to meet demand. We need Front End, Mobile, and Senior Software Engineers for our 2021 goals.<p>If up for it, connect with us over a 10min zoom coffee next week to share more: sam.greinetz@bolt.com",
-			"num_comments": null,
-			"story_id": 27699704,
-			"story_title": "Ask HN: Who is hiring? (July 2021)",
-			"story_url": null,
-			"parent_id": 27699704,
-			"created_at_i": 1625151750,
-			"_tags": [
-				"comment",
-				"author_bolt28",
-				"story_27699704"
-			],
-			"objectID": "27699737",
-			"_highlightResult": {
-				"author": {
-					"value": "bolt28",
-					"matchLevel": "none",
-					"matchedWords": []
-				},
-				"comment_text": {
-					"value": "Bolt | Software Engineering | <a href=\"https://www.bolt.com\" rel=\"nofollow\">https://www.bolt.com</a><p>Commerce is moving online faster than ever, and our Engineering team (ex FB/Google/Twitter/Uber) cannot build fast enough to meet demand. We need Front End, <em>Mobile</em>, and Senior Software Engineers for our 2021 goals.<p>If up for it, connect with us over a 10min zoom coffee next week to share more: sam.greinetz@bolt.com",
-					"matchLevel": "full",
-					"fullyHighlighted": false,
-					"matchedWords": [
-						"mobile"
-					]
-				},
-				"story_title": {
-					"value": "Ask HN: Who is hiring? (July 2021)",
-					"matchLevel": "none",
-					"matchedWords": []
-				}
-			}
-		},
-		{
-			"created_at": "2021-07-01T15:01:53.000Z",
-			"title": null,
-			"url": null,
-			"author": "Austin_Conlon",
-			"points": null,
-			"story_text": null,
-			"comment_text": "SEEKING WORK | Mountain View, CA<p>Software engineer for Apple platforms (iOS, iPadOS, macOS, tvOS, watchOS)<p>Technologies: Objective-C, Swift, SwiftUI<p>App Store apps: <a href=\"https:&#x2F;&#x2F;apps.apple.com&#x2F;developer&#x2F;austin-conlon&#x2F;id1189508961\" rel=\"nofollow\">https:&#x2F;&#x2F;apps.apple.com&#x2F;developer&#x2F;austin-conlon&#x2F;id1189508961</a><p>GitHub: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;AustinConlon\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;AustinConlon</a><p>Email&#x2F;iMessage: austinconlon@icloud.com<p>Rate is 120%-140% of the market U.S. rate of a full time mobile developer (<a href=\"https:&#x2F;&#x2F;insights.stackoverflow.com&#x2F;survey&#x2F;2020#work-salary-by-developer-type-united-states\" rel=\"nofollow\">https:&#x2F;&#x2F;insights.stackoverflow.com&#x2F;survey&#x2F;2020#work-salary-b...</a>) to account for the overhead of contracting.",
-			"num_comments": null,
-			"story_id": 27699703,
-			"story_title": "Ask HN: Freelancer? Seeking freelancer? (July 2021)",
-			"story_url": null,
-			"parent_id": 27699703,
-			"created_at_i": 1625151713,
-			"_tags": [
-				"comment",
-				"author_Austin_Conlon",
-				"story_27699703"
-			],
-			"objectID": "27699721",
-			"_highlightResult": {
-				"author": {
-					"value": "Austin_Conlon",
-					"matchLevel": "none",
-					"matchedWords": []
-				},
-				"comment_text": {
-					"value": "SEEKING WORK | Mountain View, CA<p>Software engineer for Apple platforms (iOS, iPadOS, macOS, tvOS, watchOS)<p>Technologies: Objective-C, Swift, SwiftUI<p>App Store apps: <a href=\"https://apps.apple.com/developer/austin-conlon/id1189508961\" rel=\"nofollow\">https://apps.apple.com/developer/austin-conlon/id1189508961</a><p>GitHub: <a href=\"https://github.com/AustinConlon\" rel=\"nofollow\">https://github.com/AustinConlon</a><p>Email/iMessage: austinconlon@icloud.com<p>Rate is 120%-140% of the market U.S. rate of a full time <em>mobile</em> developer (<a href=\"https://insights.stackoverflow.com/survey/2020#work-salary-by-developer-type-united-states\" rel=\"nofollow\">https://insights.stackoverflow.com/survey/2020#work-salary-b...</a>) to account for the overhead of contracting.",
-					"matchLevel": "full",
-					"fullyHighlighted": false,
-					"matchedWords": [
-						"mobile"
-					]
-				},
-				"story_title": {
-					"value": "Ask HN: Freelancer? Seeking freelancer? (July 2021)",
-					"matchLevel": "none",
-					"matchedWords": []
-				}
-			}
-		},
-		{
-			"created_at": "2021-07-01T15:01:28.000Z",
-			"title": null,
-			"url": null,
-			"author": "joshingmachine",
-			"points": null,
-			"story_text": null,
-			"comment_text": "Niche | Pittsburgh, PA | Full-time | Onsite and Remote (USA only) | <a href=\"https:&#x2F;&#x2F;www.niche.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.niche.com&#x2F;</a><p>Niche is the leader in school search. Our mission is to make researching and enrolling in schools easy, transparent, and free. With in-depth profiles on every school and college in America, 140 million reviews and ratings, and powerful search tools, we help millions of people find the right school for them. We also help thousands of schools recruit more best-fit students, by highlighting what makes them great and making it easier to visit and apply.<p>Senior Mobile Engineer\n<a href=\"https:&#x2F;&#x2F;boards.greenhouse.io&#x2F;nichecom&#x2F;jobs&#x2F;4032911004\" rel=\"nofollow\">https:&#x2F;&#x2F;boards.greenhouse.io&#x2F;nichecom&#x2F;jobs&#x2F;4032911004</a><p>Software Engineer, Front-End\n<a href=\"https:&#x2F;&#x2F;grnh.se&#x2F;875c78f24us\" rel=\"nofollow\">https:&#x2F;&#x2F;grnh.se&#x2F;875c78f24us</a><p>Software Engineer, Back-End\n<a href=\"https:&#x2F;&#x2F;grnh.se&#x2F;04218d544us\" rel=\"nofollow\">https:&#x2F;&#x2F;grnh.se&#x2F;04218d544us</a><p>Sr. UI&#x2F;UX Designer\n<a href=\"https:&#x2F;&#x2F;grnh.se&#x2F;110e92594us\" rel=\"nofollow\">https:&#x2F;&#x2F;grnh.se&#x2F;110e92594us</a><p>Data Engineer\n<a href=\"https:&#x2F;&#x2F;grnh.se&#x2F;f36aa2d14us\" rel=\"nofollow\">https:&#x2F;&#x2F;grnh.se&#x2F;f36aa2d14us</a><p>Scrum Master&#x2F;Software Development Project Manager\n<a href=\"https:&#x2F;&#x2F;boards.greenhouse.io&#x2F;nichecom&#x2F;jobs&#x2F;4032902004\" rel=\"nofollow\">https:&#x2F;&#x2F;boards.greenhouse.io&#x2F;nichecom&#x2F;jobs&#x2F;4032902004</a><p>Sr. Quality Assurance Analyst\n<a href=\"https:&#x2F;&#x2F;boards.greenhouse.io&#x2F;nichecom&#x2F;jobs&#x2F;4038702004\" rel=\"nofollow\">https:&#x2F;&#x2F;boards.greenhouse.io&#x2F;nichecom&#x2F;jobs&#x2F;4038702004</a>",
-			"num_comments": null,
-			"story_id": 27699704,
-			"story_title": "Ask HN: Who is hiring? (July 2021)",
-			"story_url": null,
-			"parent_id": 27699704,
-			"created_at_i": 1625151688,
-			"_tags": [
-				"comment",
-				"author_joshingmachine",
-				"story_27699704"
-			],
-			"objectID": "27699708",
-			"_highlightResult": {
-				"author": {
-					"value": "joshingmachine",
-					"matchLevel": "none",
-					"matchedWords": []
-				},
-				"comment_text": {
-					"value": "Niche | Pittsburgh, PA | Full-time | Onsite and Remote (USA only) | <a href=\"https://www.niche.com/\" rel=\"nofollow\">https://www.niche.com/</a><p>Niche is the leader in school search. Our mission is to make researching and enrolling in schools easy, transparent, and free. With in-depth profiles on every school and college in America, 140 million reviews and ratings, and powerful search tools, we help millions of people find the right school for them. We also help thousands of schools recruit more best-fit students, by highlighting what makes them great and making it easier to visit and apply.<p>Senior <em>Mobile</em> Engineer\n<a href=\"https://boards.greenhouse.io/nichecom/jobs/4032911004\" rel=\"nofollow\">https://boards.greenhouse.io/nichecom/jobs/4032911004</a><p>Software Engineer, Front-End\n<a href=\"https://grnh.se/875c78f24us\" rel=\"nofollow\">https://grnh.se/875c78f24us</a><p>Software Engineer, Back-End\n<a href=\"https://grnh.se/04218d544us\" rel=\"nofollow\">https://grnh.se/04218d544us</a><p>Sr. UI/UX Designer\n<a href=\"https://grnh.se/110e92594us\" rel=\"nofollow\">https://grnh.se/110e92594us</a><p>Data Engineer\n<a href=\"https://grnh.se/f36aa2d14us\" rel=\"nofollow\">https://grnh.se/f36aa2d14us</a><p>Scrum Master/Software Development Project Manager\n<a href=\"https://boards.greenhouse.io/nichecom/jobs/4032902004\" rel=\"nofollow\">https://boards.greenhouse.io/nichecom/jobs/4032902004</a><p>Sr. Quality Assurance Analyst\n<a href=\"https://boards.greenhouse.io/nichecom/jobs/4038702004\" rel=\"nofollow\">https://boards.greenhouse.io/nichecom/jobs/4038702004</a>",
-					"matchLevel": "full",
-					"fullyHighlighted": false,
-					"matchedWords": [
-						"mobile"
-					]
-				},
-				"story_title": {
-					"value": "Ask HN: Who is hiring? (July 2021)",
-					"matchLevel": "none",
-					"matchedWords": []
-				}
-			}
-		}
-	
-	],
-	"nbHits": 244865,
-	"page": 0,
-	"nbPages": 50,
-	"hitsPerPage": 20,
-	"exhaustiveNbHits": false,
-	"query": "mobile",
-	"params": "advancedSyntax=true&analytics=true&analyticsTags=backend&query=mobile",
-	"processingTimeMS": 5
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
